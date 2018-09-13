@@ -14,7 +14,12 @@ header {
   margin-top: 20px;
 }
 
+.container0 {
+}
+
 .container {
+  width: 920px;
+  margin: 0 auto 40px auto;
 }
 
 .header-title-area {
@@ -59,13 +64,12 @@ header {
   font-size: 24px;
   font-weight: bold;
   margin-top: 0;
-  margin-bottom: 20px;
+  margin-bottom: 5px;
 }
 
 .card-contents {
-  padding: 40px;
+  padding: 20px;
   display: block;
-  margin-bottom: 20px;
   background-color: #fff;
 }
 
@@ -85,6 +89,16 @@ header {
   padding-left: 0;
 }
 
+.information-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.information-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+
 .information-list li {
   margin-bottom: 10px;
 }
@@ -96,7 +110,7 @@ header {
 }
 
 .staff-list {
-  width: 150px;
+  width: 120px;
   margin-right: 35px;
   float: left;
 }
@@ -107,8 +121,8 @@ header {
 
 .staff-image {
   margin-bottom: 10px;
-  width: 150px;
-  height: 150px;
+  width: 120px;
+  height: 120px;
   display: block;
 }
 
@@ -125,4 +139,52 @@ header {
   clear: both;
   display: block;
   content: " ";
+}
+
+.item-date{
+  font-size: 12px;
+  color: #333;
+}
+
+.item-title{
+  font-size: 20px;
+  color: #0ff;
+}
+
+.item-summary{
+  font-size: 8px;
+  color: #333;
+}
+
+.staff-image2 {
+  margin-bottom: 10px;
+  width: 50px;
+  height: 50px;
+  display: block;
+}
+
+.item-date2{
+  font-size: 8px;
+  color: #333;
+}
+
+.item-title2{
+  font-size: 12px;
+  color: #0ff;
+}
+
+.skin-borderQuiet{
+  border-bottom: 1px solid #c0c0c0;
+}
+
+.card-contents2 {
+  padding: 0px;
+  display: block;
+  background-color: #fff;
+}
+
+.staff-list2 {
+  width: 60px;
+  margin-right: 0px;
+  float: left;
 }

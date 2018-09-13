@@ -22,7 +22,7 @@ header {
 .header-title-area {
   margin-top: 40px;
   margin-bottom: 30px;
-}
+}
 
 .logo {
   font-size: 32px;
@@ -115,6 +115,14 @@ header {
 
 .staff-name {
   text-align: center;
+}
+
+.card-contents2 {
+  height: 129px;
+  padding: 40px;
+  display: block;
+  margin-bottom: 20px;
+  background-color: #fff;
 }
 
 .copyright {
